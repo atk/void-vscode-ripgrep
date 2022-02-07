@@ -1,1 +1,1 @@
-export default { rgPath: '/usr/bin/rg' };
+export const rgPath = '/usr/bin/rg';
