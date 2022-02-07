@@ -1,0 +1,25 @@
+{
+  "name": "void-vscode-ripgrep",
+  "version": "0.0.1",
+  "description": "void linux shim for vscode-ripgrep",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atk/void-vscode-ripgrep.git"
+  },
+  "keywords": [
+    "void",
+    "linux",
+    "vscode",
+    "ripgrep"
+  ],
+  "author": "Alex Lohr <alex.lohr@logmein.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/atk/void-vscode-ripgrep/issues"
+  },
+  "homepage": "https://github.com/atk/void-vscode-ripgrep#readme"
+}
